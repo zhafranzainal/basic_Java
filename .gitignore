@@ -1,5 +1,6 @@
 
 *.xml
 *.iml
-project/build/
-project/.gradle/
+project/build/*
+project/.gradle/*
+out/*
