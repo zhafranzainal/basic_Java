@@ -12,7 +12,7 @@ public class BalanceStringTest {
             "'R?R??', '??W??', 5",
             "'RR?', '?R?', -1",
             "'WWW??', 'RRR??', -1",
-            "'?RW?WR', '?WR?RW', 0'"
+            "'?RW?WR', '?WR?RW', 0"
     })
 
     public void testCases(String row1, String row2, int expected) {
